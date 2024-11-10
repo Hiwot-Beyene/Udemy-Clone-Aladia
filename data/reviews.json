@@ -1,0 +1,39 @@
+{
+    "courseRating": "4.7",
+    "totalRatings": "2K",
+    "reviews": [
+      {
+        "reviewerName": "KS",
+        "initials": "KS",
+        "rating": 4,
+        "date": "a month ago",
+        "comment": "Ürün Yönetimi konusunda başlangıç seviyesinde yeterli bir içerik sundu. Ancak işe alım süreci ile ilgili kısımlar fazla uzun geldi. Sektörde başarılı olanlarla yapılan röportajlar çok iyi düşünülmüş.",
+        "helpful": true
+      },
+      {
+        "reviewerName": "Mohammad Asadullah",
+        "initials": "M",
+        "rating": 4.5,
+        "date": "a month ago",
+        "comment": "It's been great learning with Cole and Evan. Precise and to the point with reasonable examples that you can easily understand and relate with. The exercises help us to practice as well. In the end, a good insight the PM role and what to expect in role after getting it as well. Thanks!",
+        "helpful": true
+      },
+      {
+        "reviewerName": "Gari H.",
+        "initials": "GH",
+        "rating": 5,
+        "date": "a month ago",
+        "comment": "This course is amazing. I'm learning so much about product management, the explanations are clear and easy to follow and the examples also reinforce the lessons!",
+        "helpful": true
+      },
+      {
+        "reviewerName": "Amin K.",
+        "initials": "AK",
+        "rating": 1,
+        "date": "a month ago",
+        "comment": "I'm not really learning anything and I feel like I have wasted a lot money and time doing this course. It feels like the presenters tried to made the courses longer when the points are really short. Not recommended.",
+        "helpful": true
+      }
+    ]
+  }
+  

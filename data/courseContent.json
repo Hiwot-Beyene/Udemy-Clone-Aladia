@@ -1,0 +1,101 @@
+{
+  "title": "Course content",
+  "overview": "18 sections • 144 lectures • 12h 55m total length",
+  "accordionItems": [
+    {
+      "title": "Before Starting the Course",
+      "time": "5 lectures • 7min",
+      "content": "This section introduces you to the course structure and prepares you for the content ahead."
+    },
+    {
+      "title": "Course Overview",
+      "time": "05:06",
+      "content": "A quick overview of the course and what you'll learn as a Product Manager."
+    },
+    {
+      "title": "Introduction to Product Management",
+      "time": "11 lectures • 32min",
+      "content": "An introduction to the basics of product management, focusing on the core skills needed to become an effective Product Manager."
+    },
+    {
+      "title": "What is a Product Manager?",
+      "time": "03:30",
+      "content": "Learn about the role of a Product Manager, their responsibilities, and key challenges they face."
+    },
+    {
+      "title": "Introduction to Product Development",
+      "time": "12 lectures • 32min",
+      "content": "An exploration of the product development lifecycle, including stages, processes, and tools used by product teams."
+    },
+    {
+      "title": "The Four Major Phases of the Product Lifecycle",
+      "time": "03:14",
+      "content": "This section covers the four main phases of the product lifecycle: ideation, development, launch, and growth."
+    },
+    {
+      "title": "Understanding the Market",
+      "time": "10 lectures • 1hr 15min",
+      "content": "How to analyze and understand the market for your product, including competitor analysis and market research techniques."
+    },
+    {
+      "title": "Building Product Roadmaps",
+      "time": "8 lectures • 45min",
+      "content": "Learn how to create and manage product roadmaps that guide your product's development over time."
+    },
+    {
+      "title": "User-Centered Design",
+      "time": "7 lectures • 50min",
+      "content": "Focuses on the importance of designing with the user in mind and the methods of user-centered design."
+    },
+    {
+      "title": "Agile Methodology in Product Development",
+      "time": "9 lectures • 1hr 5min",
+      "content": "Explains how to implement Agile practices in product development and manage agile teams."
+    },
+    {
+      "title": "Product Testing and Feedback",
+      "time": "11 lectures • 1hr 30min",
+      "content": "Learn how to test your product with real users, gather feedback, and iterate based on insights."
+    },
+    {
+      "title": "Managing Cross-Functional Teams",
+      "time": "8 lectures • 1hr",
+      "content": "How to effectively manage and collaborate with teams from different departments, such as design, engineering, and marketing."
+    },
+    {
+      "title": "Product Marketing & Launch",
+      "time": "6 lectures • 50min",
+      "content": "An introduction to marketing your product, creating launch strategies, and promoting your product post-launch."
+    },
+    {
+      "title": "Metrics and Product Analytics",
+      "time": "10 lectures • 1hr 20min",
+      "content": "Understanding key product metrics, how to track them, and how to use analytics to inform product decisions."
+    },
+    {
+      "title": "Scaling Products for Growth",
+      "time": "9 lectures • 1hr 10min",
+      "content": "Learn strategies for scaling your product as it gains more users and becomes more complex."
+    },
+    {
+      "title": "Product Management Best Practices",
+      "time": "7 lectures • 55min",
+      "content": "Key practices and approaches that successful Product Managers follow to deliver impactful products."
+    },
+    {
+      "title": "Advanced Product Management",
+      "time": "5 lectures • 40min",
+      "content": "Explores advanced techniques and strategies for managing complex products at scale."
+    },
+    {
+      "title": "Final Project: Product Management Case Study",
+      "time": "6 lectures • 1hr 15min",
+      "content": "Capstone project where you'll apply your learnings to a real-world product management case study."
+    },
+    {
+      "title": "Course Wrap-Up & Final Thoughts",
+      "time": "4 lectures • 20min",
+      "content": "Reviewing the key takeaways from the course and how to apply them in your future career as a Product Manager."
+    }
+  ]
+}

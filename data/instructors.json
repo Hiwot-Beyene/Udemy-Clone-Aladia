@@ -1,0 +1,25 @@
+{
+    "instructors": [
+      {
+        "name": "Cole Mercer",
+        "title": "Product Nerd | Ex-Lead PM @ SoundCloud, VP PM @ Semrush",
+        "rating": 4.5,
+        "reviews": 72804,
+        "students": 294607,
+        "courses": 5,
+        "bio": "Hey there! I'm Cole, and I'm happy to be a Udemy Instructor Partner with over 250,000 students worldwide. I found my love for teaching in 2015 and have courses across Udemy and LinkedIn Learning where I am lucky enough to be rated a top instructor on both platforms.\n\nI'm currently a product management, strategy, and artificial intelligence consultant with my own business helping clients that have as many as 5,000 employees.\n\nBefore that, I was a VP at Semrush holding the position of Head of Product for the Academy division...",
+        "image": "@/assets/images/cole.jpeg"
+      },
+      {
+        "name": "Evan Kimbrell",
+        "title": "Founder of Sprintkick | Ex-VC | Ex-startup founder",
+        "rating": 4.5,
+        "reviews": 145210,
+        "students": 1060599,
+        "courses": 24,
+        "bio": "Hi, I'm Evan Kimbrell. Thanks for checking out my course. My courses have been featured in Forbes, CNN, Entrepreneur Magazine, BusinessInsider, BuzzFeed, Mashable, TheNextWeb, The Daily Beast, & Techcrunch.\n\nCurrently, I'm the Founder and Director of Sprintkick, a full-service, referral-only digital agency based out of San Francisco. Over the past four years I've overseen the development and launch of over 100 web and mobile apps...",
+        "image": "@/assets/images/evan.jpeg"
+      }
+    ]
+  }
+  
